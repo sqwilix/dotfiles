@@ -76,6 +76,7 @@ flatpak
 fsarchiver
 fwupd
 git
+github-cli
 glances
 goverlay
 gpu-screen-recorder-gtk
