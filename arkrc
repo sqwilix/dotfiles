@@ -1,0 +1,12 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/Загрузки/,$HOME/Загрузки/Telegram Desktop/
+
+[Extraction]
+openDestinationFolderAfterExtraction=true
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+StatusBar=Disabled

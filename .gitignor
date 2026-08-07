@@ -1,0 +1,30 @@
+# Браузеры и мессенджеры — секреты, куки, сессии
+BraveSoftware/
+discord/
+spotify/
+mozilla/firefox/*.default*/
+mozilla/firefox/Profile Groups/
+
+# GitHub CLI токен
+gh/
+
+# Кэши и временные файлы
+*/Cache/
+*/cache/
+*/CachedData/
+*.lock
+*.log
+GPUCache/
+Crash Reports/
+
+Code/*
+!Code/User
+!Code/User/**
+
+zed/settings.json
+vkBasalt/reshade-shaders/
+
+heroic/*
+!heroic/config.json
+!heroic/GamesConfig
+!heroic/GamesConfig/**

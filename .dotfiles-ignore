@@ -1,0 +1,7 @@
+*/Cache/
+*/cache/
+*/CachedData/
+*.lock
+*.log
+GPUCache/
+Crash Reports/

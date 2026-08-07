@@ -1,0 +1,23 @@
+[Favorites-org.kde.plasma.kickoff.favorites.instance-115-]
+ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:Counter-Strike 2.desktop,applications:steam.desktop,applications:spotify.desktop,applications:code-oss.desktop,applications:jetbrains-datagrip.desktop,applications:dev.zed.Zed.desktop,applications:org.kde.konsole.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-115-global]
+ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:Counter-Strike 2.desktop,applications:steam.desktop,applications:spotify.desktop,applications:code-oss.desktop,applications:jetbrains-datagrip.desktop,applications:dev.zed.Zed.desktop,applications:org.kde.konsole.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-24-]
+ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:Counter-Strike 2.desktop,applications:steam.desktop,applications:spotify.desktop,applications:jetbrains-datagrip.desktop,applications:dev.zed.Zed.desktop,applications:org.kde.konsole.desktop,applications:wine-Programs-Visual Studio Code-Visual Studio Code.desktop,applications:org.telegram.desktop.desktop,applications:discord.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-24-global]
+ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:Counter-Strike 2.desktop,applications:steam.desktop,applications:spotify.desktop,applications:jetbrains-datagrip.desktop,applications:dev.zed.Zed.desktop,applications:org.kde.konsole.desktop,applications:wine-Programs-Visual Studio Code-Visual Studio Code.desktop,applications:org.telegram.desktop.desktop,applications:discord.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-48-]
+ordering=preferred://browser,org.kde.kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,org.kde.discover.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-48-global]
+ordering=preferred://browser,org.kde.kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,org.kde.discover.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-75-]
+ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:Counter-Strike 2.desktop,applications:steam.desktop,applications:spotify.desktop,applications:jetbrains-datagrip.desktop,applications:dev.zed.Zed.desktop,applications:kitty.desktop,applications:code.desktop,applications:org.telegram.desktop.desktop,applications:discord.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-75-global]
+ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:Counter-Strike 2.desktop,applications:steam.desktop,applications:spotify.desktop,applications:jetbrains-datagrip.desktop,applications:dev.zed.Zed.desktop,applications:kitty.desktop,applications:code.desktop,applications:org.telegram.desktop.desktop,applications:discord.desktop

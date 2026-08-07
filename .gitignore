@@ -1,0 +1,39 @@
+# Браузеры и мессенджеры — секреты, куки, сессии
+BraveSoftware/
+discord/
+spotify/
+mozilla/firefox/*.default*/
+mozilla/firefox/Profile Groups/
+
+# GitHub CLI токен
+gh/
+
+# Кэши и временные файлы
+*/Cache/
+*/cache/
+*/CachedData/
+*.lock
+*.log
+GPUCache/
+Crash Reports/
+
+Code/*
+!Code/User
+!Code/User/**
+
+zed/settings.json
+vkBasalt/reshade-shaders/
+
+# Игровые лаунчеры и тяжелый кэш
+heroic/
+*Cache*/
+*cache*/
+*.tar.gz
+*.part
+.DS_Store
+
+# VS Code / Codium мусор
+Code/User/History/
+Code/User/globalStorage/
+Code/User/workspaceStorage/
+Code/User/chatLanguageModels.json

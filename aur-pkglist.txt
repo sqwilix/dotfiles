@@ -1,0 +1,7 @@
+datagrip
+gpu-screen-recorder-gtk
+qdirstat
+spotify
+tlauncher-installer
+visual-studio-code-bin
+wallpaper-engine-kde-plugin-git
