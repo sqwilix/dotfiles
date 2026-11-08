@@ -17,6 +17,7 @@ A clean work-focused profile for CachyOS + KDE Plasma. Linux is intended for dev
 - `scripts/install.sh` — interactive installer; asks before installing.
 - `scripts/check.sh` — read-only workstation and Rust environment check.
 - `fish/config.fish` — additive Fish configuration that preserves CachyOS defaults.
+- `kitty/` — modular Kitty configuration, based on the current neutral theme and keybindings.
 - `vscode/extensions.json` — recommended VS Code extensions.
 - `templates/` — reusable Rust project configuration files.
 
@@ -35,6 +36,10 @@ Review the script before running it. It does not change your login shell, KDE se
 ```bash
 bash workstation/scripts/check.sh
 ```
+
+## Kitty configuration
+
+Back up your existing `~/.config/kitty` before copying the contents of `kitty/` into it. The configuration is split into a main file and small files under `conf.d/`.
 
 ## Rust
 
