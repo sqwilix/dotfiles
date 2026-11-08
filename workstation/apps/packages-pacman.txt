@@ -17,6 +17,7 @@ lldb
 # Workstation utilities
 fish
 kitty
+ttf-jetbrains-mono-nerd
 btop
 fastfetch
 
