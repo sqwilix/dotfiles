@@ -1,0 +1,5 @@
+# Optional applications — not installed by the default script
+firefox
+kate
+kcalc
+filelight

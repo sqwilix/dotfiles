@@ -1,0 +1,25 @@
+# Core command-line and development tools
+base-devel
+git
+curl
+wget
+unzip
+zip
+7zip
+
+# Rust toolchain manager
+rustup
+
+# Debuggers
+gdb
+lldb
+
+# Workstation utilities
+fish
+kitty
+btop
+fastfetch
+
+# KDE file and archive tools
+dolphin
+ark

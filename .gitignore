@@ -1,39 +1,27 @@
-# Браузеры и мессенджеры — секреты, куки, сессии
-BraveSoftware/
-discord/
-spotify/
-mozilla/firefox/*.default*/
-mozilla/firefox/Profile Groups/
+# Secrets and private device identities
+**/privateKey.pem
+**/certificate.pem
+**/*.key
+**/*.p12
+**/*.pfx
+**/.ssh/
+**/kdeconnect/
 
-# GitHub CLI токен
-gh/
+# Application state, caches and databases
+**/.cache/
+**/Cache/
+**/Code - OSS/Cache/
+**/Code - OSS/CachedData/
+**/Code - OSS/User/workspaceStorage/
+**/*.db
+**/*.db-shm
+**/*.db-wal
+**/*.sqlite
+**/*.sqlite3
 
-# Кэши и временные файлы
-*/Cache/
-*/cache/
-*/CachedData/
-*.lock
-*.log
-GPUCache/
-Crash Reports/
-
-Code/*
-!Code/User
-!Code/User/**
-
-zed/settings.json
-vkBasalt/reshade-shaders/
-
-# Игровые лаунчеры и тяжелый кэш
-heroic/
-*Cache*/
-*cache*/
-*.tar.gz
-*.part
+# Local machine files
 .DS_Store
-
-# VS Code / Codium мусор
-Code/User/History/
-Code/User/globalStorage/
-Code/User/workspaceStorage/
-Code/User/chatLanguageModels.json
+Thumbs.db
+*.log
+*.swp
+*.bak
