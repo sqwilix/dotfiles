@@ -1,0 +1,23 @@
+{
+  // Keep formatting predictable for Rust projects.
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "rust-lang.rust-analyzer",
+  "editor.tabSize": 4,
+  "editor.insertSpaces": true,
+
+  // Rust Analyzer
+  "rust-analyzer.check.command": "clippy",
+  "rust-analyzer.checkOnSave": true,
+  "rust-analyzer.cargo.allTargets": true,
+  "rust-analyzer.inlayHints.enable": true,
+  "rust-analyzer.lens.enable": {
+    "references": true,
+    "run": true,
+    "debug": true
+  },
+
+  // Keep the integrated terminal on the user's current shell.
+  "terminal.integrated.defaultProfile.linux": "fish",
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true
+}
