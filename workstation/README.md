@@ -15,9 +15,10 @@ A clean work-focused profile for CachyOS + KDE Plasma. Linux is intended for dev
 - `apps/packages-pacman.txt` — core packages from CachyOS/Arch repositories.
 - `apps/packages-optional.txt` — optional packages, not installed automatically.
 - `scripts/install.sh` — interactive installer; asks before installing.
-- `fish/config.fish` — minimal optional Fish configuration.
+- `scripts/check.sh` — read-only workstation and Rust environment check.
+- `fish/config.fish` — additive Fish configuration that preserves CachyOS defaults.
 - `vscode/extensions.json` — recommended VS Code extensions.
-- `templates/rust-toolchain.toml` — reusable Rust toolchain template.
+- `templates/` — reusable Rust project configuration files.
 
 ## Install
 
@@ -29,9 +30,15 @@ bash workstation/scripts/install.sh
 
 Review the script before running it. It does not change your login shell, KDE settings, bootloader, partitions or Windows installation.
 
+## Check the current setup
+
+```bash
+bash workstation/scripts/check.sh
+```
+
 ## Rust
 
-The installer installs Rust through `rustup`, selects stable and adds rustfmt, Clippy and rust-analyzer.
+The installer installs Rust through `rustup`, selects stable and adds rustfmt, Clippy and rust-analyzer. The templates can be copied into individual Rust projects when needed.
 
 ## Safety
 

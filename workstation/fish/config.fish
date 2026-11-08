@@ -1,9 +1,4 @@
-# Additive Fish settings for the CachyOS workstation profile.
-# Keep CachyOS defaults when they are installed.
-
-if test -f /usr/share/cachyos-fish-config/cachyos-config.fish
-    source /usr/share/cachyos-fish-config/cachyos-config.fish
-end
+# Minimal interactive Fish defaults.
 
 if status is-interactive
     alias ll='ls -lah'
